@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/shaotingzhou/Downloads/myvideo/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/shaotingzhou/Downloads/myvideo/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_6bea3250bb9ec70ddb106d4d51e7540bedf0252c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shaotingzhou/Downloads/myvideo/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/shaotingzhou/Downloads/myvideo/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_c86d478cc115f3cc246a075cc5d5fe106ad60ea6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shaotingzhou/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/shaotingzhou/Downloads/myvideo/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_a14b64b947c04c5aa41fbf8dc4e98850cf61df21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shaotingzhou/Downloads/myvideo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="/Users/shaotingzhou/Downloads/myvideo/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.0.1_1bad1d5788c2a444d6fea6c98e521c3269a2dfb2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shaotingzhou/Downloads/myvideo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="/Users/shaotingzhou/Downloads/myvideo/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.0.1_c0656d1e5bcf51acd938f0fcb973ddd874b2638c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shaotingzhou/Downloads/myvideo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="/Users/shaotingzhou/Downloads/myvideo/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.0.1_c0d9fa4f756f8b1f2aa2e87f2da37eaa2151b252.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shaotingzhou/Downloads/myvideo/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.43.1/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="/Users/shaotingzhou/Downloads/myvideo/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5_ad39f2c60c2efb4162d89207296678e1c52353b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shaotingzhou/Downloads/myvideo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="/Users/shaotingzhou/Downloads/myvideo/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.0.1_b151633a8f2a21f1e125683b1c2686463618a920.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shaotingzhou/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/shaotingzhou/Downloads/myvideo/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0_ea042796501f12c477ddf6933b266c3cd19cee49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shaotingzhou/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/Users/shaotingzhou/Downloads/myvideo/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1_51f59c933e302e1b37920285f3322f68cc8f0eb1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shaotingzhou/Downloads/myvideo/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/shaotingzhou/Downloads/myvideo/android/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.4.0_9765d9dec28c507f28a21d9deb476a3a763b9bef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shaotingzhou/Downloads/myvideo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
+        <dex dex="/Users/shaotingzhou/Downloads/myvideo/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.0.1_c66a8074b0587cffd2239c9d99ed0c652cc572c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shaotingzhou/Downloads/myvideo/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/shaotingzhou/Downloads/myvideo/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_91d19265bb7342db8fc946b886bce8919c3193f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shaotingzhou/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/Users/shaotingzhou/Downloads/myvideo/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1_77a27d709b845da4f1a713508a5d4b85b56d7b7b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shaotingzhou/Downloads/myvideo/android/app/build/intermediates/exploded-aar/com.yqritc/android-scalablevideoview/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c97dc8446f6a46da5620f40b3737e162d53c40c2">
+        <dex dex="/Users/shaotingzhou/Downloads/myvideo/android/app/build/intermediates/pre-dexed/debug/com.yqritc-android-scalablevideoview-1.0.1_840cf42469168bac272eff151bc0257a7587d765.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shaotingzhou/Downloads/myvideo/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/shaotingzhou/Downloads/myvideo/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_e748dde9a92ee01387159c8d93d66e9ce37f7b9c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shaotingzhou/Downloads/myvideo/android/app/build/intermediates/exploded-aar/myvideo/react-native-video/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9dc0e17e2c63aa53eda55c52d13500edc3a35587">
+        <dex dex="/Users/shaotingzhou/Downloads/myvideo/android/app/build/intermediates/pre-dexed/debug/myvideo-react-native-video-unspecified_87829f544b642d69c12a83ce1ed1b23ec0f8cdae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shaotingzhou/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/shaotingzhou/Downloads/myvideo/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_5a93ad3785de27bdfa996cddee625fb4e7933da1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shaotingzhou/Downloads/myvideo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="/Users/shaotingzhou/Downloads/myvideo/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.0.1_d5a3d97ec3a9e4b839a18ac6cc612c2e45663482.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shaotingzhou/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/shaotingzhou/Downloads/myvideo/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1_10f7ea45554ae225f8ec1a0504424a6e70d1016b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shaotingzhou/Downloads/myvideo/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/shaotingzhou/Downloads/myvideo/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_ac65acf7c1d91a78b7c60e1649988226bb41ab7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shaotingzhou/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/shaotingzhou/Downloads/myvideo/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_4c01197551e38b7e96d032ef01a5138483ed7dfb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shaotingzhou/Downloads/myvideo/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.43.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f66dccf471b94d5d28c54a6b8ca9e1668b0fb0ce">
+        <dex dex="/Users/shaotingzhou/Downloads/myvideo/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.43.1_6e1a2ab32f62916646d79849c50ad8ebcf656e3c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shaotingzhou/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/shaotingzhou/Downloads/myvideo/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_873890849f43c74168507ea6b5ac16ef964c448d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shaotingzhou/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/shaotingzhou/Downloads/myvideo/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_ccca25e594192b3ee2862c8cb22ac447b74b2be4.jar" />
+    </item>
+
+</items>
