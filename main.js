@@ -103,10 +103,20 @@ export default class Main extends Component {
         var itemAry = [];
         for (var i = 0; i < lyrObj.length; i++) {
             var item = lyrObj[i].txt
+
+            if (i < 2){
+                itemAry.push(
+                    <View key={i} style={styles.itemStyle}>
+                       
+                        <Text style={{ color: 'blue' }}>  </Text>
+                    </View>
+                );
+
+            }
             if (this.state.currentTime.toFixed(2) > lyrObj[i].total) {
                 //正在唱的歌词
                 itemAry.push(
-                    <View key={i} style={styles.itemStyle}>
+                    <View key={i + 2} style={styles.itemStyle}>
                        
                         <Text style={{ color: 'blue' }}> {item} </Text>
                     </View>
@@ -116,7 +126,7 @@ export default class Main extends Component {
             else {
                 //所有歌词
                 itemAry.push(
-                    <View key={i} style={styles.itemStyle}>
+                    <View key={i + 2} style={styles.itemStyle}>
                         <Text style={{ color: 'red'}}> {item} </Text>
                     </View>
                 )
@@ -261,7 +271,7 @@ export default class Main extends Component {
                     <View style={{ height: 125, alignItems: 'center' ,marginTop:50}}>
                         <ScrollView style={{ position: 'relative' }}
                             ref={(scrollView) => { _scrollView = scrollView }}
-
+                            snapToInterval = {30}
                         >
                             {this.renderItem()}
                         </ScrollView>
@@ -311,5 +321,6 @@ const styles = StyleSheet.create({
     },
     itemStyle: {
         height: 25,
+        alignItems: 'center'
     }
 })
