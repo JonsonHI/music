@@ -15,4 +15,8 @@
 ```
 cd 当前目录
 npm install
+使用了react-native-video
+请参照插件地址安装
+import Video from 'react-native-video'
 ```
+支持  iOS  安卓双端
