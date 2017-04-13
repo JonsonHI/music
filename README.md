@@ -1,6 +1,6 @@
 # music
 
-![](https://github.com/JonsonHI/Image/1.jpg)
+![](https://github.com/JonsonHI/muisc/raw/master/Image/1.jpg)
 
 
 1.添加歌词匹配
